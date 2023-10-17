@@ -5,19 +5,19 @@
       "id": 1,
       "nome": "Severus Snape",
       "Disciplina": "Poções",
-      "perfil": "Misterioso e enigmático professor de Poções de Hogwarts."
+      "perfil": "Professor."
     },
     {
       "id": 2,
       "nome": "Minerva McGonagall",
       "Disciplina": "Transfiguração",
-      "perfil": "Diretora da Grifinória e professora de Transfiguração."
+      "perfil": "Professor."
     },
     {
       "id": 3,
       "nome": "Albus Dumbledore",
       "Disciplina": "Feitiços",
-      "perfil": "Diretor de Hogwarts e renomado mestre em Feitiços."
+      "perfil": "Diretor."
     }
   ],
   "alunos": [
@@ -25,19 +25,19 @@
       "id": 1,
       "nome": "Harry Potter",
       "disciplina": "Defesa Contra as Artes das Trevas",
-      "perfil": "O Menino que Sobreviveu e protagonista da série."
+      "perfil": "Aluno."
     },
     {
       "id": 2,
       "nome": "Hermione Granger",
       "disciplina": "Feitiços",
-      "perfil": "Inteligente e dedicada aluna de Hogwarts."
+      "perfil": "Aluno."
     },
     {
       "id": 3,
       "nome": "Ron Weasley",
       "disciplina": "Xadrez de Bruxo",
-      "perfil": "Melhor amigo de Harry e jogador de xadrez excepcional."
+      "perfil": "aluno."
     }
   ]
 }
