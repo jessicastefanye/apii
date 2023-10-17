@@ -4,19 +4,19 @@
     {
       "id": 1,
       "nome": "Severus Snape",
-      "disciplina": "Poções",
+      "Disciplina": "Poções",
       "perfil": "Misterioso e enigmático professor de Poções de Hogwarts."
     },
     {
       "id": 2,
       "nome": "Minerva McGonagall",
-      "disciplina": "Transfiguração",
+      "Disciplina": "Transfiguração",
       "perfil": "Diretora da Grifinória e professora de Transfiguração."
     },
     {
       "id": 3,
       "nome": "Albus Dumbledore",
-      "disciplina": "Feitiços",
+      "Disciplina": "Feitiços",
       "perfil": "Diretor de Hogwarts e renomado mestre em Feitiços."
     }
   ],
