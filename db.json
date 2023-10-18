@@ -1,26 +1,25 @@
-
-[
-  {
-    "id": 1,
-    "nome": "Severus Snape",
-    "Disciplina": "Poções",
-    "Perfil": "Professor."
-  },
-  {
-    "id": 2,
-    "nome": "Minerva McGonagall",
-    "Disciplina": "Transfiguração",
-    "Perfil": "Professor."
-  },
-  {
-    "id": 3,
-    "nome": "Albus Dumbledore",
-    "Disciplina": "Feitiços",
-    "Perfil": "Diretor."
-  }
-]
-  
-  "alunos": [
+{
+  "Professores": [
+    {
+      "id": 1,
+      "nome": "Severus Snape",
+      "Disciplina": "Poções",
+      "Perfil": "Professor."
+    },
+    {
+      "id": 2,
+      "nome": "Minerva McGonagall",
+      "Disciplina": "Transfiguração",
+      "Perfil": "Professor."
+    },
+    {
+      "id": 3,
+      "nome": "Albus Dumbledore",
+      "Disciplina": "Feitiços",
+      "Perfil": "Diretor."
+    }
+  ],
+  "Alunos": [
     {
       "id": 1,
       "nome": "Harry Potter",
