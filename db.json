@@ -4,19 +4,22 @@
       "id": 1,
       "nome": "Severus Snape",
       "Disciplina": "Poções",
-      "Perfil": "Professor."
+      "Perfil": "Professor",
+      "toggle-button": true
     },
     {
       "id": 2,
       "nome": "Minerva McGonagall",
       "Disciplina": "Transfiguração",
-      "Perfil": "Professor."
+      "Perfil": "Professor",
+      "toggle-button": true
     },
     {
       "id": 3,
       "nome": "Albus Dumbledore",
       "Disciplina": "Feitiços",
-      "Perfil": "Diretor."
+      "Perfil": "Diretor.",
+      "toggle-button": false
     }
   ],
   "Alunos": [
@@ -24,19 +27,22 @@
       "id": 1,
       "nome": "Harry Potter",
       "disciplina": "Defesa Contra as Artes das Trevas",
-      "perfil": "Aluno."
+      "perfil": "Aluno",
+      "toggle-button": true
     },
     {
       "id": 2,
       "nome": "Hermione Granger",
       "disciplina": "Feitiços",
-      "perfil": "Aluno."
+      "perfil": "Aluno",
+      "toggle-button": true
     },
     {
       "id": 3,
       "nome": "Ron Weasley",
       "disciplina": "Xadrez de Bruxo",
-      "perfil": "aluno."
+      "perfil": "aluno",
+      "toggle-button": false
     }
   ]
 }
