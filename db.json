@@ -23,20 +23,20 @@
     {
       "id": 1,
       "nome": "Harry Potter",
-      "disciplina": "Defesa Contra as Artes das Trevas",
-      "perfil": "Aluno."
+      "Disciplina": "Defesa Contra as Artes das Trevas",
+      "Perfil": "Aluno."
     },
     {
       "id": 2,
       "nome": "Hermione Granger",
-      "disciplina": "Feitiços",
-      "perfil": "Aluno."
+      "Disciplina": "Feitiços",
+      "Perfil": "Aluno."
     },
     {
       "id": 3,
       "nome": "Ron Weasley",
-      "disciplina": "Xadrez de Bruxo",
-      "perfil": "aluno."
+      "Disciplina": "Xadrez de Bruxo",
+      "Perfil": "aluno."
     }
   ]
 }
