@@ -1,42 +1,45 @@
 {
-  "Professores": [
-    {
-      "id": 1,
-      "nome": "Severus Snape",
-      "Disciplina": "Poções",
-      "Perfil": "Professor."
-    },
-    {
-      "id": 2,
-      "nome": "Minerva McGonagall",
-      "Disciplina": "Transfiguração",
-      "Perfil": "Professor."
-    },
-    {
-      "id": 3,
-      "nome": "Albus Dumbledore",
-      "Disciplina": "Feitiços",
-      "Perfil": "Diretor."
-    }
-  ],
-  "Alunos": [
+  "professores": [
+   {
+    "id": 1,
+    "nome": "Severus Snape",
+    "disciplina": "Poções",
+    "Perfil": "professor.",
+    "status": false
+  },
+  {
+    "id": 2,
+    "nome": "Minerva McGonagall",
+    "disciplina": "Transfiguração",
+    "perfil": "professor.",
+    "status": true
+  },
+  {
+    "id": 3,
+    "nome": "Albus Dumbledore",
+    "disciplina": "Feitiços",
+    "perfil": "Diretor.",
+    "status": true
+  }
+],
+  "alunos": [
     {
       "id": 1,
       "nome": "Harry Potter",
-      "Disciplina": "Defesa Contra as Artes das Trevas",
-      "Perfil": "Aluno."
+      "disciplina": "Defesa Contra as Artes das Trevas",
+      "perfil": "Aluno."
     },
     {
       "id": 2,
       "nome": "Hermione Granger",
-      "Disciplina": "Feitiços",
-      "Perfil": "Aluno."
+      "disciplina": "Feitiços",
+      "perfil": "Aluno."
     },
     {
       "id": 3,
       "nome": "Ron Weasley",
-      "Disciplina": "Xadrez de Bruxo",
-      "Perfil": "aluno."
+      "disciplina": "Xadrez de Bruxo",
+      "perfil": "aluno."
     }
   ]
 }
